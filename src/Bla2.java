@@ -1,6 +1,6 @@
 
 public class Bla2 {
-	public void bla(){}
+	public void bla(){} 
 	asdasdasd
 	flup
 	
